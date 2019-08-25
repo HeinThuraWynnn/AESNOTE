@@ -58,7 +58,7 @@
                 android:layout_height="220dp"
                 android:layout_weight="1"
                 android:hint="enter description to encrypt"
-                android:inputType="text" />
+                android:inputType="text|textMultiLine" />
 
         </LinearLayout>
         <LinearLayout
@@ -92,6 +92,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
+            android:layout_marginTop="100dp"
             android:orientation="horizontal">
 
 
@@ -99,8 +100,7 @@
                 android:id="@+id/btnDec"
                 android:layout_width="175dp"
                 android:layout_height="wrap_content"
-                android:background="#13AEF3"
-
+                android:background="#FFE57F"
                 android:text="Decrypt" />
 
             <Button
@@ -108,7 +108,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Encrypt"
-                android:background="#CDDC39" />
+                android:background="#84FFFF" />
 
         </LinearLayout>
 

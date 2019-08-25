@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">AES NOTE</string>
+    <string name="splash_title">Note Application using AES Encrypt Algorithm</string>
+
     <string name="edit_note_title">Edit Note</string>
     <string name="add_note_title">Add Note</string>
 
