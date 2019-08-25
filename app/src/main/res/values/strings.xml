@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AES NOTE</string>
+    <string name="edit_note_title">Edit Note</string>
+    <string name="add_note_title">Add Note</string>
+
+    <string name="error_save_note">Error with saving Note</string>
+    <string name="save_note">Note saved</string>
+
+    <string name="error_update_note">Error with updating note</string>
+    <string name="update_note">Note updated</string>
+
+    <string name="error_delete_note">Error with deleting note</string>
+    <string name="delete_note">Note deleted</string>
+    <string name="text_skip">Skip Now</string>
+</resources>
